@@ -1,0 +1,3 @@
+[submodule "mxnet_mtcnn_face_detection"]
+	path = mxnet_mtcnn_face_detection
+	url = https://github.com/pangyupo/mxnet_mtcnn_face_detection.git

@@ -1,0 +1,7 @@
+data/*
+face/*
+demo-data/*
+demo-face/*
+feat/*
+models/*.caffemodel
+final_project/
